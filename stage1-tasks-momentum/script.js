@@ -7,7 +7,7 @@ function showDate() {
         month: 'long',
         day: 'numeric',
         hour: 'numeric',
-        minute: 'numeric',
+
         timeZone: 'UTC',
     };
     const currentDate = date.toLocaleDateString('en-En', options);
