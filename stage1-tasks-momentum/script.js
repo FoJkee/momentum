@@ -54,6 +54,3 @@ function getLocalStorage() {
     }
 }
 window.addEventListener('load', getLocalStorage);
-
-body.style.backgroundImage =
-    "url('https://raw.githubusercontent.com/rolling-scopes-school/stage1-tasks/assets/images/evening/18.jpg')";
